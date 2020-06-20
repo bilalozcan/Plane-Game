@@ -1,0 +1,177 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\7807335ede501aa006d47abb2b03b395\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\5f25b624a0b27bd3bf28afa90cd06b5f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\c8ab510acdb863eabcdd4d6a667b7895\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\beddcc8baf129b2ca535ad8725fd43ce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\85db2162ebd73b5529158c0592aed128\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\5838b1e53db20c2161ab04b1ea8a4c20\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\44eb186a71b7354ad676d9c10d57df54\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\95b111044a8bdeb12c9f39fd888aaebf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\fbf506f157f21a3fc70257b78b41fa12\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\99fe77ce9e94c243b0b64c9230c93e24\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\035437b7f6034adfd5617b058efe1a10\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\7a342c4d5b7a5a4eec4ea57a53316921\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\d0c23d7e5929c7223830b1d36825cdd1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\2082654943104d8914ca179d7fd7bbeb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\160aacf923c76076625e593a80075ce2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\a5952a9a582b1e0c84fa5fdad7bc2153\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\9ad5b80ece435b248b266ea31d57c282\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\3a25af3fbacc2b2cc82800c3777fb2fc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\dc56f1690848e0ecc7a9ecf6e6bdb504\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\3617d3e13dd836f54fce3ce9a4b29477\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\e4ea5f11d2ead1cb1a4c36660be6e740\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\05f4716519ad16db7b7df42061f9c3bb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\87d5d6e5aefc52e397cb0d19039aae8d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\5af4941a2b162b270be8b05f5511d928\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\00df6c87c91834db1d83d6df221821b5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\9e0ca168ea470f0cb602e0da7ba70e43\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml
+		INJECTED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml
+		ADDED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml
+		ADDED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml:4:5-35
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml:6:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml:7:22-63
+supports-screens
+ADDED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml:9:5-14:36
+	android:largeScreens
+		ADDED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml:12:9-36
+	android:smallScreens
+		ADDED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml:10:9-37
+	android:normalScreens
+		ADDED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml:11:9-37
+	android:xlargeScreens
+		ADDED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml:13:9-37
+	android:resizeable
+		ADDED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml:9:23-49
+	android:anyDensity
+		ADDED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml:14:9-34
+application
+ADDED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml:16:5-30:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\160aacf923c76076625e593a80075ce2\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\160aacf923c76076625e593a80075ce2\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\a5952a9a582b1e0c84fa5fdad7bc2153\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\a5952a9a582b1e0c84fa5fdad7bc2153\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\160aacf923c76076625e593a80075ce2\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml:20:9-35
+	android:label
+		ADDED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml:19:9-41
+	android:icon
+		ADDED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml:18:9-43
+	android:allowBackup
+		ADDED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml:21:9-79
+activity#com.mycompany.myngdroidapp.GameActivity
+ADDED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml:22:9-29:20
+	android:screenOrientation
+		ADDED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml:23:13-56
+	android:configChanges
+		ADDED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml:23:57-92
+	android:theme
+		ADDED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml:23:93-131
+	android:name
+		ADDED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml:22:19-73
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml
+INJECTED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\7807335ede501aa006d47abb2b03b395\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\7807335ede501aa006d47abb2b03b395\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\5f25b624a0b27bd3bf28afa90cd06b5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\5f25b624a0b27bd3bf28afa90cd06b5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\c8ab510acdb863eabcdd4d6a667b7895\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\c8ab510acdb863eabcdd4d6a667b7895\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\beddcc8baf129b2ca535ad8725fd43ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\beddcc8baf129b2ca535ad8725fd43ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\85db2162ebd73b5529158c0592aed128\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\85db2162ebd73b5529158c0592aed128\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\5838b1e53db20c2161ab04b1ea8a4c20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\5838b1e53db20c2161ab04b1ea8a4c20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\44eb186a71b7354ad676d9c10d57df54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\44eb186a71b7354ad676d9c10d57df54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\95b111044a8bdeb12c9f39fd888aaebf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\95b111044a8bdeb12c9f39fd888aaebf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\fbf506f157f21a3fc70257b78b41fa12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\fbf506f157f21a3fc70257b78b41fa12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\99fe77ce9e94c243b0b64c9230c93e24\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\99fe77ce9e94c243b0b64c9230c93e24\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\035437b7f6034adfd5617b058efe1a10\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\035437b7f6034adfd5617b058efe1a10\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\7a342c4d5b7a5a4eec4ea57a53316921\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\7a342c4d5b7a5a4eec4ea57a53316921\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\d0c23d7e5929c7223830b1d36825cdd1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\d0c23d7e5929c7223830b1d36825cdd1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\2082654943104d8914ca179d7fd7bbeb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\2082654943104d8914ca179d7fd7bbeb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\160aacf923c76076625e593a80075ce2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\160aacf923c76076625e593a80075ce2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\a5952a9a582b1e0c84fa5fdad7bc2153\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\a5952a9a582b1e0c84fa5fdad7bc2153\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\9ad5b80ece435b248b266ea31d57c282\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\9ad5b80ece435b248b266ea31d57c282\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\3a25af3fbacc2b2cc82800c3777fb2fc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\3a25af3fbacc2b2cc82800c3777fb2fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\dc56f1690848e0ecc7a9ecf6e6bdb504\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\dc56f1690848e0ecc7a9ecf6e6bdb504\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\3617d3e13dd836f54fce3ce9a4b29477\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\3617d3e13dd836f54fce3ce9a4b29477\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\e4ea5f11d2ead1cb1a4c36660be6e740\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\e4ea5f11d2ead1cb1a4c36660be6e740\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\05f4716519ad16db7b7df42061f9c3bb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\05f4716519ad16db7b7df42061f9c3bb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\87d5d6e5aefc52e397cb0d19039aae8d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\87d5d6e5aefc52e397cb0d19039aae8d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\5af4941a2b162b270be8b05f5511d928\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\5af4941a2b162b270be8b05f5511d928\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\00df6c87c91834db1d83d6df221821b5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\00df6c87c91834db1d83d6df221821b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\9e0ca168ea470f0cb602e0da7ba70e43\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\baybi\.gradle\caches\transforms-2\files-2.1\9e0ca168ea470f0cb602e0da7ba70e43\AndroidManifest.xml:20:5-44
+INJECTED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml
+INJECTED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml
+		ADDED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml
+		INJECTED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml
+		ADDED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml
+		INJECTED from C:\dev\android\workspace\app\src\main\AndroidManifest.xml
