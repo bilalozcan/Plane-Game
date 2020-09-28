@@ -9,6 +9,7 @@ import istanbul.gamelab.ngdroid.core.NgMediaPlayer;
 import istanbul.gamelab.ngdroid.core.SoundManager;
 import istanbul.gamelab.ngdroid.util.Log;
 
+/*29 Eylul 2020*/
 
 /**
  * Created by noyan on 24.06.2016.

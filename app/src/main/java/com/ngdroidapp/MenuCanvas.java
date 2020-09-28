@@ -2,12 +2,14 @@ package com.ngdroidapp;
 
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
+import android.graphics.Paint;
 import android.graphics.Rect;
+import android.graphics.Typeface;
 
 import istanbul.gamelab.ngdroid.base.BaseCanvas;
-import istanbul.gamelab.ngdroid.util.Log;
 import istanbul.gamelab.ngdroid.util.Utils;
 
+/*29 Eylul 2020*/
 /**
  * Created by noyan on 27.06.2016.
  * Nitra Games Ltd.
@@ -22,6 +24,7 @@ public class MenuCanvas extends BaseCanvas {
     private int kaydirmaMiktarı, kaydirmaHizi;
     private Rect menuarkaplanKaynak, menuarkaplanHedef;
     private int ucaginivmesi;
+    Paint yazirengi;
     Canvas canvas;
 
 
@@ -34,6 +37,14 @@ public class MenuCanvas extends BaseCanvas {
         arkaPlanYukle();
         oyuncuUcagiYukle();
         oynaButonuYukle();
+        yaziYazdirYukle();
+    }
+    private void yaziYazdirYukle() {
+        yazirengi = new Paint();
+        yazirengi.setTextSize(100);
+        yazirengi.setTextAlign(Paint.Align.LEFT);
+        yazirengi.setARGB(255, 112,209,244);
+        yazirengi.setTypeface(Typeface.DEFAULT_BOLD);
     }
 
     private void menuMuziginiHazirla() {
@@ -41,6 +52,7 @@ public class MenuCanvas extends BaseCanvas {
         root.menumuzigi.start();
     }
 
+    //Oynama butonunu çizer
     private void oynaButonuYukle() {
         oynabutonu = Utils.loadImage(root, "playbutton.png");
         oynabutonuX = 1920 / 2 - oynabutonu.getWidth() / 2;
@@ -71,13 +83,17 @@ public class MenuCanvas extends BaseCanvas {
         canvas.scale(getWidth() / 1920f, getHeight() / 1080f);
         arkaplaniCiz();
         oyuncuUcagiCiz();
-        oynaButonuCiz();
+        //oynaButonuCiz();
+        ekranaYaziYaz();
     }
 
     private void oynaButonuCiz() {
         canvas.drawBitmap(oynabutonu, oynabutonuX, oynabutonuY, null);
     }
 
+    private void ekranaYaziYaz() {
+        canvas.drawText("Tap To Start" , 1920/3, getHeight() - 25, yazirengi);
+    }
     private void ucaginBaslangicHareketi() {
         if(oyuncuucagiX < oynabutonuX - oyuncuucagi.getWidth() && ((600 - oyuncuucagiX) / 8) > 0) {
             oyuncuucagiX += (1920 / 6 - oyuncuucagiX) / 8;
@@ -118,15 +134,13 @@ public class MenuCanvas extends BaseCanvas {
         return false;
     }
 
-    private void oynaButonunaBasıldımı(int x, int y) {
-        if (x > root.xOranla(oynabutonuX) && x < root.xOranla(oynabutonuX +  oynabutonu.getWidth()) && y > root.yOranla(oynabutonuY) && y < root.yOranla(oynabutonuY + oynabutonu.getHeight())) {
-            root.menumuzigi.stop();
-            root.sesefektcalar.play(root.sesEfektListesi[root.SESEFEKTİ_ATES]);
-            root.canvasManager.setCurrentCanvas(new GameCanvas(root));
-        }
+    private void oynaButonunaBasildimi(int x, int y) {
+        root.menumuzigi.stop();
+        root.sesefektcalar.play(root.sesEfektListesi[root.SESEFEKTİ_ATES]);
+        root.canvasManager.setCurrentCanvas(new GameCanvas(root));
     }
     public void touchDown(int x, int y, int id) {
-        oynaButonunaBasıldımı(x, y);
+        oynaButonunaBasildimi(x, y);
     }
 
     public void touchMove(int x, int y, int id) {

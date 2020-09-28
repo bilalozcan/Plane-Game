@@ -12,7 +12,7 @@ import java.util.Vector;
 
 import istanbul.gamelab.ngdroid.base.BaseCanvas;
 import istanbul.gamelab.ngdroid.util.Utils;
-
+/*29 Eylül 2020*/
 
 /**
  * Created by noyan on 24.06.2016.
@@ -220,7 +220,9 @@ public class GameCanvas extends BaseCanvas {
 
     private void ayarlarButonuYukle() {
         ayarlarbutonu = Utils.loadImage(root, "ayarlarbutton.png");
-        ayarlarbutonX = 1920 - ayarlarbutonu.getWidth();
+        ayarlarbutonX = getWidth() - ayarlarbutonu.getWidth();
+        System.out.print("Ekran Olculeri: " + getWidth() + "X degeri:" + ayarlarbutonX + "\n");
+
         ayarlarbutonY = 10 + puancercevesi.getHeight();
 
     }
